@@ -21,7 +21,11 @@ image::linkedin_profile_header.png[]
 
 Previous Experience and Descriptions:: *This is the most important part of your profile.* The easiest way to do this is to copy and paste what you have on your resume for each of your specific job. *These points should be written in the S.T.A.R method, three per job. If you do not know what S.T.A.R. method is* 
 
-
+++++
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=wupgSKRwL7Y&ab_channel=GonzagaCareer%26ProfessionalDevelopment">
+</iframe>
+++++
 
 
 video::wupgSKRwL7Y&ab_channel=GonzagaCareer%26ProfessionalDevelopment[youtube]
