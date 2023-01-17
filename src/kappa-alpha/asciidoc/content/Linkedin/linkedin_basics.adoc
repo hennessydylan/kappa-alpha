@@ -13,18 +13,23 @@ For business students:: In essentially every single job that finance, accounting
 Professional Photo:: It is common to just use your fraternity composite as your profile photo.
 Profile Header:: Fill out all your neccesary information, this will be seen under your name on all your Linkedin interactions so don't make it unprofessional. You can follow my format below or just use "Position at company"
 
-.Profile Photo & Header
+.Profile Photo & Header Example
 [%collapsible]
 ====
 image::linkedin_profile_header.png[]
 ====
 
-Previous Experience and Descriptions:: *This is the most important part of your profile.* The easiest way to do this is to copy and paste what you have on your resume for each of your specific job. *These points should be written in the S.T.A.R method, three per job. If you do not know what S.T.A.R. method is* 
+Summary Section:: Your summary section is very important but it is something that is personalized and that you need to write yourself. Keep it professional, you can take the route of finding a template for it online aswell https://www.themuse.com/advice/5-templates-thatll-make-writing-the-perfect-linkedin-summary-a-breeze[here]. 
 
-++++
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wupgSKRwL7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-++++
+Previous Experience and Descriptions:: *This is the most important part of your profile.* The easiest way to do this is to copy and paste what you have on your resume for each of your specific job. *These points should be written in the S.T.A.R method, three per job. If you do not know what S.T.A.R. method is https://www.youtube.com/embed/wupgSKRwL7Y[here] is a good video that will show you how to write correct resume points.* What is written in these points is how recruiters are going to be searching for and finding you on linkedin.
 
+.Previous Experiences and Descriptions Example
+[%collapsible]
+====
+image::linkedin_exp_desc.png[]
+====
+
+Skills and Skills Assesments:: It is important also to have your skills actually selected and configured because like your previous job descriptions, what you choose for your skills is also a search field that is possible for recruiters to search for. *There are also the linkedin skills assessments, out of the kindness of my heart I have provided you a link to the answerkey to most if not all of the skills assessments on linkedin https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes[here], you should get in the top percentage ranking for each that you have on your profile.*. One thing that I would stay away from is blindly lying and saying that you have a skill when you don't, it will make you look like an idiot in an interview. The linkedin skills assesments are generally not what a job is actually like so if you have actually some base level or more above on a skill then put it on your profile and pass the test.
 
 
 
