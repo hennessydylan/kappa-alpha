@@ -1,18 +1,28 @@
-= Linked In Basics
+= Kappa Alpha
 
 Dylan Hennessy <hennessydylan@outlook.com>
 v1.0, 2023-01-16
 
+== LinkedIn Basics
 
-== Bare Minimum
+=== Why have a good LinkedIn?
+In General:: The most popular way now to place anyone for any type of competitive job is through working with a recruiter from that specific company, cold applying unless you are a top applicant isn't going to get you anywhere in most cases. *Reaching out and building a relationship with these recruiters who are the lead on a specific job that you want is how you get recruiters to fight for you when they are deciding to hire and who to interview in the first place.* If you have a blank linkedin and try to reachout you won't even get a response when trying to connect.
+For business students:: In essentially every single job that finance, accounting, consulting, venture capital, etc. career feilds offer that have any sort of prestige, won't even give you an interview if you don't know someone, or aren't from a top school with perfect grades, and frankly we go to Arizona State. Not single one of us has a chance against someone from an ivy leauge school unless we have someone that works there already who is willing to fight for us. *A good profile is a tool to meet a build relationships with people where you want to work now and in the future.*
+
+=== Bare Minimum
 Professional Photo:: It is common to just use your fraternity composite as your profile photo.
-Profile Header:: Fill out all your neccesary information, this will be seen under your name on all your Linkedin interactions so don't make it unprofessional. You can follow my format below or just use "<Position> at <company>"
+Profile Header:: Fill out all your neccesary information, this will be seen under your name on all your Linkedin interactions so don't make it unprofessional. You can follow my format below or just use "Position at company"
 
 .Profile Photo & Header
 [%collapsible]
 ====
 image::linkedin_profile_header.png[]
 ====
+
+Previous Experience and Descriptions:: *This is the most important part of your profile.* The easiest way to do this is to copy and paste what you have on your resume for each of your specific job. *These points should be written in the S.T.A.R method, three per job. If you do not know what S.T.A.R. method is* 
+
+video::wupgSKRwL7Y&ab_channel=GonzagaCareer%26ProfessionalDevelopment[youtube]
+
 
 
 
