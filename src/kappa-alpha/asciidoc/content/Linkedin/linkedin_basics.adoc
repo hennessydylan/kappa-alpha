@@ -1,0 +1,19 @@
+= Linked In Basics
+
+Dylan Hennessy <hennessydylan@outlook.com>
+v1.0, 2023-01-16
+
+
+== Bare Minimum
+Professional Photo:: It is common to just use your fraternity composite as your profile photo.
+Profile Header:: Fill out all your neccesary information, this will be seen under your name on all your Linkedin interactions so don't make it unprofessional. You can follow my format below or just use "<Position> at <company>"
+
+.Profile Photo & Header
+[%collapsible]
+====
+image::linkedin_profile_header.png[]
+====
+
+
+
+
