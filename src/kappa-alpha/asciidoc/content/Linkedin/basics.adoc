@@ -1,1 +1,16 @@
-= 
+= Linked In Basics: 
+:imagesdir: /Users/dylanhennessy/repos/kappa-alpha/imagedir
+
+Dylan Hennessy <hennessydylan@outlook.com>
+v1.0, 2023-01-16
+
+
+== Bare Minimum
+Professional Photo:: It is common to use your fraternity composite as your profile photo.
+
+image:imagedir/linkedin_profile_header.png[]
+
+
+
+
+
