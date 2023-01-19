@@ -1,13 +1,18 @@
-= Documentation
+= LinkedIn Basics
 
 Dylan Hennessy <hennessydylan@outlook.com>
-v1.7, 2023-01-16
+v1.0, 2023-01-16
 
-== LinkedIn Basics
+== Why have a good LinkedIn?
+Get a job:: The economic situation we are graduating into is making new grad jobs extremely competitive.
+You'll make more money:: Meeting and working with recruiters through Linkedin the right way means you'll get more interviews, leading to multiple job offers, now and in the future. 
 
-=== Why have a good LinkedIn?
+
+* Once you have enough connections and interactions you'll start to show up in the top results of google searches for your name. 
+
+
 In General:: The most popular way now to place anyone for any type of competitive job is through working with a recruiter from that specific company, cold applying unless you are a top applicant isn't going to get you anywhere in most cases. *Reaching out and building a relationship with these recruiters who are the lead on a specific job that you want is how you get recruiters to fight for you when they are deciding to hire and who to interview in the first place.* If you have a blank linkedin and try to reachout you won't even get a response when trying to connect.
-For business students:: In essentially every single job that finance, accounting, consulting, venture capital, etc. career feilds offer that have any sort of prestige, won't even give you an interview if you don't know someone, or aren't from a top school with perfect grades, and frankly we go to Arizona State. Not single one of us has a chance against someone from an ivy leauge school unless we have someone that works there already who is willing to fight for us. *A good profile is a tool to meet a build relationships with people where you want to work now and in the future.*
+For business students:: In essentially every single job that finance, sales, accounting, consulting, venture capital, career feilds offer, you won't even give you an interview if you don't know someone, or aren't from a top school with perfect grades, and frankly we go to Arizona State. Not single one of us has a chance against someone from an ivy leauge school unless we have someone that works there already who is willing to fight for us. *A good profile is a tool to meet a build relationships with people where you want to work now and in the future.*
 
 === Bare Minimum
 Professional Photo:: It is common to just use your fraternity composite as your profile photo.
